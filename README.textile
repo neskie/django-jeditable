@@ -1,0 +1,14 @@
+h1. About
+
+This plugin uses jeditable to provide an app that allows you to edit any model
+and any field in place.
+
+Screen shots.
+
+
+
+
+h3. References
+
+1. http://visiblydribbling.wordpress.com/2009/11/01/inline-editing-with-jquery-jeditable-and-django/
+2. http://formerlyconversal.wordpress.com/2009/11/01/inline-editing-with-jquery-jeditable-and-django/
